@@ -1,23 +1,133 @@
-# 💫 About Me:
-RHCSA-certified Linux Administrator with extensive experience in system administration, server management, and IT infrastructure. <br>Skilled in managing Linux-based environments, configuring core services (DNS, FTP, NFS, Apache), and deploying scalable solutions on AWS and GCP. <br>Experienced in system hardening, automation, and troubleshooting production environments. <br>Passionate about building secure, reliable, and high-performance systems.
+<div align="center">
 
+# ⚡ Sahil Singh ⚡
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prince_todiwal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prince-todiwal-74a827216/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:todiwalprince@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+%26+Kubernetes+Learner+%E2%98%81%EF%B8%8F;Linux+Administrator+%F0%9F%90%A7;Automation+Enthusiast+%F0%9F%94%A5;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" />
 
-# 💻 Tech Stack:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Bind9 DNS](https://img.shields.io/badge/Bind9_DNS-1E1E1E?style=for-the-badge&logo=icloud&logoColor=white) ![Squid Proxy](https://img.shields.io/badge/Squid_Proxy-006699?style=for-the-badge&logo=squidex&logoColor=white) 
-![Clonezilla](https://img.shields.io/badge/Clonezilla-32A852?style=for-the-badge&logo=clonezilla&logoColor=white) ![PXE Boot](https://img.shields.io/badge/PXE_Boot-00599C?style=for-the-badge&logo=serverfault&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=princetodiwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=princetodiwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=princetodiwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNhb3N1M3l5Y2d1NmZxazFjcnp5eDV0NnJ5dzR4M2lqOG4xYWVqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lVsYDBC0UVQJCE/giphy.gif" width="700"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=princetodiwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://princetodiwal.github.io/my_portfolio/) 
+```bash
+┌──(root㉿sahil)-[~/devops]
+└─$ whoami
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Sahil Singh
+
+┌──(root㉿sahil)-[~/devops]
+└─$ cat skills.txt
+
+☁️ Cloud Computing
+⚙️ Kubernetes
+🐳 Docker
+🚀 CI/CD
+🐧 Linux
+🔐 DevOps Automation
+📊 Monitoring
+```
+
+# 💀 About Me
+
+```yaml
+Name: Sahil Singh
+Username: Sahil-502
+Focus: DevOps & Cloud Engineering
+Learning:
+  - Kubernetes
+  - Azure DevOps
+  - Terraform
+  - Cloud Security
+Passion:
+  - Automation
+  - Infrastructure
+  - Linux
+  - Scalable Systems
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,azure,aws,jenkins,github,git,nginx,mongodb,mysql,redis,bash,vscode&theme=dark" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahil-502&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-502&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-502&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Sahil-502/Sahil-502/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Sahil-502">
+<img src="https://img.shields.io/badge/GitHub-00FFAA?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Current Mission
+
+```diff
++ Master Kubernetes
++ Build Production DevOps Projects
++ Learn Terraform & IaC
++ Crack DevOps Interviews
++ Become Cloud Architect
+```
+
+---
+
+# ⚠️ System Status
+
+```bash
+✔ Linux Skills Loaded
+✔ Docker Running
+✔ Kubernetes Connected
+✔ CI/CD Pipelines Active
+✔ Cloud Learning Enabled
+
+SYSTEM READY 🚀
+```
+
+---
+
+<div align="center">
+
+### 💚 Visitor Counter
+
+![](https://komarev.com/ghpvc/?username=Sahil-502\&color=00ffaa\&style=for-the-badge)
+
+---
+
+### ⚡ "Automate Everything."
+
+</div>
